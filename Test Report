@@ -1,0 +1,9 @@
+Title: Test Report for Digial Aid Seattle
+Browser: Chrome v146.0.7680.155 
+PC OS: Windows 11 Pro
+The following test cases were ran:
+Verify number of dates displayed - tested with the values of 0,1, 5,10,25, 50,and 100.  Is there a spec or requirement for the limit in the number of dates displayed?
+Verify Date Output Format - all of the options in the drop down menu
+Verify Custom Date Format
+Verify Start date - are all of the returned dates after the inputted start date?
+Verify End date - are all of the returned dates before the inputted start date?
