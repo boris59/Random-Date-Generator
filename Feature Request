@@ -1,4 +1,9 @@
-Feature Request - Sort by ascending and descending dates
+Feature Request #1 - Sort by ascending and descending dates
 Description
 The user experience would be enhanced by having a sort feature for the dates that are displayed.
 This new feature would make it easier to see the dates per the user selected date range.
+
+Feature Request #2 - add text to inform the user the number of dates that can be displayed
+Description
+With the present implementation, the user is not informed if there is a limit to the number of dates that can be displayed.
+This resulted in a bug where after 100000 is entered, the Random Date Generator becomes unresponsive.
