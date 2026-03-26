@@ -1,0 +1,18 @@
+Bug Title: Random Date Generator becomes unresponsive 
+Preconditions: None
+
+Steps
+Launch the Random Date Generator - https://codebeautify.org/generate-random-date.
+In the 'How many dates to generate?' field, enter 0's till 100000 is displayed.
+
+Observed Result
+After 100000 is displayed, the Random Date Generator bexcomes unresponsive and the page needs to be refreshed.
+
+Expected Result
+The Random Date Generator should not become unresponsive - there is no text telling the user what the limit is.
+
+Test Setup
+Chrome v146.0.7680.155
+MS Edge 146.0.3856.78
+Firefox v149.0
+PC with Windows 11 Pro
